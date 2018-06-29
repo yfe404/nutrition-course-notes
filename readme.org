@@ -1,0 +1,27 @@
+* Meal Planning Basics
+
+#+BEGIN_QUOTE
+Without a strategy and a plan, a goal is no more than a dream.
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+Create the body of your dreams while still eating your fafourite food.
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+Your goals might be to lose weight, to gain weight, to lose fat or to gain muscle, or simply live a healthy life. 
+Whatever your goals might be, Nutrimium is meant to help you to reach your goals.
+#+END_QUOTE
+
+
+** Meal Planning Explained
+
+The most important principles in dieting and nutrition are (by order of importance decreasing):
+1. *Calorie Balance* (= How Much You Eat)
+2. *Macronutrient Amounts* (= What You Eat => Protein, Carbs, Fats)
+3. Nutrient Timing (= When You Eat)
+4. Food Composition
+5. Supplements
+
+
+** Calories explained
