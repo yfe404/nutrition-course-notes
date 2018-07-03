@@ -80,8 +80,24 @@ Necessary to support muscle growth
 
 Divided into two subgroups: essential and non essential: 
 - Essential (body cannot create them) => must be obtained from food or supplementation
-- Non essential (body can create them) 
+- Non essential (body can create them)
 
+
+*** Complete and Incomplete Proteins
+- Complete protein: offers all essential amino acids
+- Incomplete protein: missing one or more essential amino acids
+
+- All animal proteins are complete proteins
+- Plant-based proteins are generally incomplete
+
+
+**** Tip for Vegans
+
+To get all the essential amino acids make sure to get protein from a variety of sources
+
+This compensate the lack of specific amino acids in specific foods
+
+Consume a balanced diet including grains, vegetables and legumes, nuts and seeds.
 
 
 *** Carbohydrates
