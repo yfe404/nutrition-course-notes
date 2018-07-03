@@ -113,6 +113,21 @@ Ideal protein intake will depend on factors such as weight, muscle mass and fitn
 
 *** Carbohydrates
 
+The bodies preffered energy source. More specifically, carbs are sugar molecules that are a union 
+of carbon, hydrogen and oxygen (CHO). Your body breaks carbs down into glucose, which is transported 
+throughout the body to provide energy.
+
+Any glucose not used is stored in your liver and muscles as glycogen or as fat.
+
+**** Benefits of Cabs
+
+- During high intensity activities your body uses glycogen and converts it back to glucose for new fuel. 
+- Supply the nervous system with fuel => more concentration, more fatigue resistance and more motivation
+- Reflueling glycogen stores
+- Secreting insulin => helps tissues to grow
+
+**** Types of Carbs
+
 *** Dietary fats
 
 Your body needs fatty acids to survive and cannot produce them from other foods.
