@@ -114,3 +114,24 @@ Ideal protein intake will depend on factors such as weight, muscle mass and fitn
 *** Carbohydrates
 
 *** Dietary fats
+
+Your body needs fatty acids to survive and cannot produce them from other foods.
+
+Fat is needed to regulate hormone production, keep your skin and hair healthy, and
+to absorb vitamins A, D, E and K (fat-soluble vitamins).
+
+Fat cells insulate your body and help to keep you warm.
+
+**** Types of Fat
+There are two main types of fat:
+
+- *Saturated fats* (eg. butter, cheese, whole milk) were long believed to raise LDL cholesterol level,
+however recent studies suggest it's a lot less problematic. They are solid at room temperature.
+
+- *Unsaturated fats* lower your LDL cholesterol level (include olive and canola oil, safflower, sunflower,
+corn and soy oil).
+
+There are also other types like *Trans fats*: form when vegetables oil is 
+infused with hydrogen => avoid (eg. oil, butter and margarine) !
+
+
