@@ -127,6 +127,75 @@ Any glucose not used is stored in your liver and muscles as glycogen or as fat.
 - Secreting insulin => helps tissues to grow
 
 **** Types of Carbs
+3 types of carbohydrates: 
+
+1. Monosaccharide - one sugar molecule (simple) - eg. glucose and fructose
+2. Disaccharide - two sugar molecules (simple) - eg. lactose, maltose, table sugar
+3. Polysaccharide - several sugar molecules (complex) - eg. fiber, pasta, rice
+
+Simple carbs are easily absorbed by the bloodstream because of the simple molecular structure.
+Complex carbs on the other hand takes more time to the body to break down into sugar.
+
+
+The *glycemic index* measures the speed with which carbohydrates are converted to glucose.
+
+Foods that digest quickly are higher on the index and foods that digest slowly are lower on the index. 
+This is important because large spikes on insulin levels can make you even more hungry, can negatively 
+impact fat loss and lead to diabetes.
+
+***** Examples
+
+****** Low GI Foods (55 or less): 
+- Oatmeal
+- Sweet potato
+- corn
+- beans
+- peas
+- legumes and lentils
+- most fruits and non-starchy vegetables
+
+
+****** Medium GI (56-69):
+- Whole wheat
+- rye and pita bread
+- quick oats
+- rice
+- couscous
+
+
+****** High GI (70 or more)
+- White bread or bagel
+- corn flakes
+- puffed rice
+- bran flakes
+- instant oatmeal
+- russet potato
+- pumpkin
+- popcorn
+- melons and pineapple
+
+
+***** Problems with the glycemic index
+Foods aren't adjusted on a per servings basis => glycemic load.
+
+Glycemic index only measures impact of isolated foods on blood sugar levels.
+
+Combining carbohydrates with different foods like dietary fat, slows down the pace of digestion and
+therefore lowers its impact on blood sugar levels.
+
+*Simple rule: If you are eating whole, unprocessed carbs, consider them a good, but if the carb has been processed it's a "bad" carb.*
+
+***** Do bad carbs make you fat ?
+
+Carbs themselves do not make you fat. 
+Howevwer, many processed foods are high in sugar and other types of simple carbs. These foods often lead to cravings and can 
+make it easier to overeat even if you already filled up your daily calories but are still hungry. This is why many people who 
+follow a diet that is based around these foods will see weight gain over time.
+
+But to get fat you always need a calorie surplus which you could also reach with a high protein or high fat diet.
+
+As long as you include quality carbs in you diet you will be fine. 
+
 
 *** Dietary fats
 
