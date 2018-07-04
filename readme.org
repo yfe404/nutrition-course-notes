@@ -268,3 +268,49 @@ In many cases, adding fat is good option because of:
 - Health effects
 - Calorie density (9 cals vs 4) => ease of consumption
 - Cost effectiveness
+
+
+** Meal Timing  
+
+*** Introduction
+
+Even if meal planning has its importance, its effects are often overestimated.
+
+*** Protein timing 
+
+Even though the body can't store excess protein you don't have to eat 1 meal every 3 hours.
+
+Our goal is to create a continual supply of amino acids.
+
+The one variable we need to look at is protein digestion -> how fast or slow the consumed food is broken down into amino acids.
+
+How long this process takes depends on three factors: 
+- Protein type
+  - Fastest digesting protein: whey (under 1 hour)
+  - Medium: whole food proteins (several hours)
+  - Slowest: dairy products (Up to & hours)
+- Meal size
+  - The simple addition of more food can prolong the digestion time of any protein source
+  - Even more protein itself can delay absorption times
+- Fat and fiber content
+  - Bot fat and fiber will prolong the digestion of proteins to a considerable extent
+  - A large, fatty steak can take as long to digest as a casein source
+  
+
+**** Meal frequency 
+
+Your goal is to maintain a continual supply of amino acids to the muscle.
+
+There are different ways of achieving this.
+
+You can eat 6 smaller meals but you can also just eat 3 meals as long as they are large enough to cover both you daily protein needs
+and are slowly digested.
+
+**** Protein Timing and workout 
+
+As long as you meet your daily calorie and nutritional requirements through your normal diet you don't have to drink a protein shake 
+right before or after your workout. 
+
+Instead get a =pre= and =post= meal right, which is something we will cover in a later lesson.
+
+
