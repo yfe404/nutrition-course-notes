@@ -625,15 +625,27 @@ For beginners it's a lot more important to understand how to come up with the ri
 
 ** How to determine your optimal calorie intake
 
+Nothing really useful here.
+
+** Tracking calories
+
+You will need three things: 
+- food
+- calorie tracker app
+- kitchen scale 
+
+In this lesson we'll learn how to utilize our scale to accomplish two things: 
+1. Ensuring that your calorie and macro counting is sufficiently accurate
+2. Making the overall process easier and less time consuming 
 
 
+** Determining Protein Intake
+Optimal protein intake is about 0.8g to 1.0g per pound of body weight 
 
+If you want to be even more specific there are two factors that determine where exactly you are on this range: 
+1. body fat - the more you are lean, the more muscle you have, the more protein your body needs
+2. activity level - the same goes for activity level
 
+So if you train, go closer to the upper bound of 1.0g per pound of body weight.
 
-
-
-
-
-
-
-
+** 
