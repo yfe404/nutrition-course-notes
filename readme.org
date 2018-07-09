@@ -648,4 +648,23 @@ If you want to be even more specific there are two factors that determine where 
 
 So if you train, go closer to the upper bound of 1.0g per pound of body weight.
 
-** 
+** Determining Carbohydrates Intake
+
+*** Ideal Carb Intake
+
+Depends mostly on the activity level.
+
+| Workout intensity | Ideal Carb Intake  |
+|-------------------+--------------------|
+| Light Workouts    | 1 - 1.25g per lb   |
+| Moderate Workouts | 1.25 - 1.5g per lb |
+| Hard Workouts     | 1.5 - 1.75 per lb  |
+
+- Light workouts: 30min or less or less than 10 working sets.
+- Moderate workouts: between 30 and 60 minutes or more than 10 working sets.
+- Hard workouts: anything more intense than moderate workouts.
+
+
+*** What about rest days?
+
+You can keep the same meals even if you don't train. 
