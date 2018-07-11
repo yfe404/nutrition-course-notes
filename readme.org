@@ -834,6 +834,48 @@ How large your daily bulking calorie count has to bem comes down to how your met
 
 ** Adjusting your diet for weight loss
 
+*There is a difference between "weight loss" and "fat loss"*
+
+The former is a lot easier than the latter. 
+
+The science behind weight loss is simple: *weight loss = calories in vs. calories out*
+
+The rules to lose body fat are a bit more complicated: *Fat loss = negative calorie balance + right balance of macronutrients*
+
+*** Creating a calorie deficit
+
+1. Calculate your Total Daily Energy Expenditure (TDEE)
+2. Subtract a certain percentage from your TDEE
+3. Reach this calorie count by eating (mostly) healthy foods.
+
+
+Again the percentage to subtract is highly controversial. In general there is 3 different categories of calorie deficit
+- Small: 10-15% below TDEE
+- Moderate: 20-25% below TDEE
+- Large: more than 25% below TDEE
+
+*Very few sources recommend a Large deficit.*
+
+The argument for a small deficit is that it would lead to less loss of muscle. However studies have shown that large deficit don't necessarily 
+means more muscle loss if you maintain a strict workout regimen. Plus if your goal is to lose body fat fast a deficit of 20% below your TDEE 
+would probably be the best option. However for some who have a fast metabolism a smaller deficit would most likely show similar results while at the
+same time sacrificing less strength and at the same time giving you more to eat during your diet.
+
+*** Maintaining high protein intake  
+
+0.8g and 1.0g of protein per pound of body per day.
+
+If your diet involves a very large calorie deficit and you are already very lean, you might even want to go with 1.2 grams of protein (although 
+usually 1g should be enough).
+
+*** Calorie Cycling (OPTIONAL)
+
+You can try eating more calories on workout days and fewer on rest days while staying on a long term calorie deficit for instance when measured over 
+the week. The logic behind this strategy is to maximize strength and recovery on the days you exercise while providing less calories when less 
+energy is expanded on rest days.
+
+It's not a proven method but the psychological benefit of eating more on workout days can make dieting more tolerable.
+
 
 
 
